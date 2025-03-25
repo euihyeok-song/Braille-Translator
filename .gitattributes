@@ -1,1 +1,2 @@
 final_models/ligth_yolov8/runs filter=lfs diff=lfs merge=lfs -text
+cv_models/yolov5/yolovm.pt filter=lfs diff=lfs merge=lfs -text
