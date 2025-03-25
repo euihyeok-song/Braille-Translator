@@ -37,7 +37,10 @@
 - **YOLOv5**
 - **Fast R-CNN**
 
-> **평가 결과:**  
+> **평가 결과:**
+> 
+> ![ob_compare (7)](https://github.com/user-attachments/assets/4f944222-67f4-4acc-9dd0-d22cd028eeb4)
+> 
 > **YOLOv8**이 가장 우수한 성능과 효율성을 보여 최종 후보로 선정되었습니다.
 
 ### 실험한 모델 변형
